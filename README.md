@@ -7,6 +7,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Oriente-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Oriente-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Oriente-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/icons/js-original.svg">
   <img align="center" alt="Oriente-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Oriente-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
