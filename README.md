@@ -1,4 +1,3 @@
-## Olá pessoal, eu sou Gabriel Oriente!
  <div>
   <a href="https://github.com/gaoriente">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaoriente&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
